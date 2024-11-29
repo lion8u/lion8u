@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lion8u
-- 👀 I’m interested in making new things with python!
-- 🌱 I’m currently learning python
-
-<!---
-lion8u/lion8u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-I just made a minecraft.py file so be sure to check it out!
+This is a little project that I made with the help of some Youtube tutorials on world generation. I used
+the knowledge aquired from those videos to make this project for you to download. However there will be no textures and only colors
+if you don't install the assets package and put it in the same folder the minecraft.py file is in.
